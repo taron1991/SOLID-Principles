@@ -10,7 +10,7 @@ class ClassicMusic implements Music{
 
     @Override
     public String song() {
-        return "classicmusic";
+        return "classic music";
     }
 }
 class RockMusic implements Music{
