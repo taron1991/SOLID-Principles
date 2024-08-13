@@ -16,7 +16,7 @@ class ClassicMusic implements Music{
 class RockMusic implements Music{
     @Override
     public String song() {
-        return "rockmusic";
+        return "rockmusicss";
     }
 }
 class JazzMusic implements Music{
